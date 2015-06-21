@@ -1,0 +1,24 @@
+#Summary
+This application is designed to show a sortable, filterable, searchable table on secondary education facilities in the US.
+
+##Table
+On this page you will find a table with basic information about each school including:
+*Name
+*Address
+*City
+*State
+*Zip
+*Phone
+
+Modifications to this page can be made with the following:
+* *Records Displayed* which can be modified using the dropdown in the top left corner
+* *Sorting* which can be modified A-Z by clicking the desired header once (click twice to sort Z-A)
+* *Filtering* which can be modified in the corresponding filter box located below the table rows.
+* *Searching* which can be done in the top right corner. 
+
+###Plots
+On this page you will find a two charts. A barchart and a choropleth map. The Bargraph is created to show the total count of facilities accross each state. The Choropleth Map with was created to show the density of schools in each county compared to the total average across the country.
+
+
+
+
